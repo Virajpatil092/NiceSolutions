@@ -1,0 +1,125 @@
+{
+  "1": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "07F3AF",
+        "destination": "F5B18A",
+        "mode":        "Bus",
+        "departureTime": "10:20",
+        "arrivalTime":   "12:30"
+      }
+    ]
+  },
+  "2": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "617736",
+        "destination": "EEB87F",
+        "mode":        "Bus",
+        "departureTime": "15:05",
+        "arrivalTime":   "16:15"
+      }
+    ]
+  },
+  "3": {
+    "criteria": "Cost",
+    "value": 940,
+    "routes": [
+      {
+        "source":      "26F069",
+        "destination": "36535F",
+        "mode":        "Bus",
+        "departureTime": "09:10",
+        "arrivalTime":   "10:15"
+      }
+    ]
+  },
+  "4": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "E6AEDC",
+        "destination": "800878",
+        "mode":        "Bus",
+        "departureTime": "18:25",
+        "arrivalTime":   "19:30"
+      }
+    ]
+  },
+  "5": {
+    "criteria": "Time",
+    "value": 40,
+    "routes": [
+      {
+        "source":      "F5B18A",
+        "destination": "E6AEDC",
+        "mode":        "Bus",
+        "departureTime": "22:40",
+        "arrivalTime":   "23:20"
+      }
+    ]
+  },
+  "6": {
+    "criteria": "Hops",
+    "value": 0,
+    "routes": [
+    ]
+  },
+  "7": {
+    "criteria": "Cost",
+    "value": 590,
+    "routes": [
+      {
+        "source":      "617736",
+        "destination": "9569DB",
+        "mode":        "Bus",
+        "departureTime": "05:30",
+        "arrivalTime":   "06:55"
+      },
+      {
+        "source":      "9569DB",
+        "destination": "36535F",
+        "mode":        "Bus",
+        "departureTime": "09:35",
+        "arrivalTime":   "13:15"
+      }
+    ]
+  },
+  "8": {
+    "criteria": "Hops",
+    "value": 0,
+    "routes": [
+    ]
+  },
+  "9": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "617736",
+        "destination": "B647A3",
+        "mode":        "Bus",
+        "departureTime": "05:05",
+        "arrivalTime":   "06:20"
+      }
+    ]
+  },
+  "10": {
+    "criteria": "Time",
+    "value": 105,
+    "routes": [
+      {
+        "source":      "800878",
+        "destination": "EEB87F",
+        "mode":        "Bus",
+        "departureTime": "06:55",
+        "arrivalTime":   "08:40"
+      }
+    ]
+  }
+}

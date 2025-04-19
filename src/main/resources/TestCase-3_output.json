@@ -1,0 +1,914 @@
+{
+  "22": {
+    "criteria": "Cost",
+    "value": 60,
+    "routes": [
+      {
+        "source":      "587721",
+        "destination": "70FDC8",
+        "mode":        "Bus",
+        "departureTime": "23:55",
+        "arrivalTime":   "00:45"
+      }
+    ]
+  },
+  "23": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "8CFCAE",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "13:20",
+        "arrivalTime":   "16:45"
+      }
+    ]
+  },
+  "24": {
+    "criteria": "Cost",
+    "value": 500,
+    "routes": [
+      {
+        "source":      "CACE5F",
+        "destination": "B2A921",
+        "mode":        "Bus",
+        "departureTime": "13:00",
+        "arrivalTime":   "15:00"
+      },
+      {
+        "source":      "B2A921",
+        "destination": "3405F8",
+        "mode":        "Bus",
+        "departureTime": "19:30",
+        "arrivalTime":   "20:20"
+      },
+      {
+        "source":      "3405F8",
+        "destination": "A2E393",
+        "mode":        "Bus",
+        "departureTime": "20:30",
+        "arrivalTime":   "22:55"
+      }
+    ]
+  },
+  "25": {
+    "criteria": "Time",
+    "value": -1415,
+    "routes": [
+      {
+        "source":      "D74FF4",
+        "destination": "CACE5F",
+        "mode":        "Bus",
+        "departureTime": "23:50",
+        "arrivalTime":   "00:25"
+      },
+      {
+        "source":      "CACE5F",
+        "destination": "4D9A9D",
+        "mode":        "Bus",
+        "departureTime": "21:35",
+        "arrivalTime":   "01:05"
+      },
+      {
+        "source":      "4D9A9D",
+        "destination": "2A4593",
+        "mode":        "Bus",
+        "departureTime": "01:10",
+        "arrivalTime":   "04:10"
+      },
+      {
+        "source":      "2A4593",
+        "destination": "986F78",
+        "mode":        "Bus",
+        "departureTime": "23:40",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "986F78",
+        "destination": "E47BC1",
+        "mode":        "Bus",
+        "departureTime": "01:35",
+        "arrivalTime":   "02:00"
+      },
+      {
+        "source":      "E47BC1",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "22:00",
+        "arrivalTime":   "00:25"
+      },
+      {
+        "source":      "587721",
+        "destination": "70FDC8",
+        "mode":        "Bus",
+        "departureTime": "23:55",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "70FDC8",
+        "destination": "CAEF66",
+        "mode":        "Bus",
+        "departureTime": "20:55",
+        "arrivalTime":   "00:15"
+      }
+    ]
+  },
+  "26": {
+    "criteria": "Time",
+    "value": -1300,
+    "routes": [
+      {
+        "source":      "2A4593",
+        "destination": "986F78",
+        "mode":        "Bus",
+        "departureTime": "23:40",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "986F78",
+        "destination": "E47BC1",
+        "mode":        "Bus",
+        "departureTime": "01:35",
+        "arrivalTime":   "02:00"
+      }
+    ]
+  },
+  "27": {
+    "criteria": "Time",
+    "value": -1305,
+    "routes": [
+      {
+        "source":      "E47BC1",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "22:00",
+        "arrivalTime":   "00:25"
+      },
+      {
+        "source":      "587721",
+        "destination": "8CFCAE",
+        "mode":        "Bus",
+        "departureTime": "21:55",
+        "arrivalTime":   "00:05"
+      },
+      {
+        "source":      "8CFCAE",
+        "destination": "C44F97",
+        "mode":        "Bus",
+        "departureTime": "23:05",
+        "arrivalTime":   "00:15"
+      }
+    ]
+  },
+  "28": {
+    "criteria": "Cost",
+    "value": 230,
+    "routes": [
+      {
+        "source":      "A2E393",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "00:20",
+        "arrivalTime":   "04:10"
+      }
+    ]
+  },
+  "29": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "A2E393",
+        "destination": "4D9A9D",
+        "mode":        "Bus",
+        "departureTime": "05:25",
+        "arrivalTime":   "07:35"
+      }
+    ]
+  },
+  "30": {
+    "criteria": "Cost",
+    "value": 840,
+    "routes": [
+      {
+        "source":      "C84090",
+        "destination": "3405F8",
+        "mode":        "Bus",
+        "departureTime": "15:15",
+        "arrivalTime":   "19:10"
+      },
+      {
+        "source":      "3405F8",
+        "destination": "A2E393",
+        "mode":        "Bus",
+        "departureTime": "20:30",
+        "arrivalTime":   "22:55"
+      }
+    ]
+  },
+  "31": {
+    "criteria": "Time",
+    "value": -675,
+    "routes": [
+      {
+        "source":      "C84090",
+        "destination": "12CDB8",
+        "mode":        "Bus",
+        "departureTime": "12:00",
+        "arrivalTime":   "12:20"
+      },
+      {
+        "source":      "12CDB8",
+        "destination": "7B1858",
+        "mode":        "Bus",
+        "departureTime": "23:10",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "7B1858",
+        "destination": "E696ED",
+        "mode":        "Bus",
+        "departureTime": "19:55",
+        "arrivalTime":   "00:00"
+      },
+      {
+        "source":      "E696ED",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "00:00",
+        "arrivalTime":   "00:20"
+      },
+      {
+        "source":      "BE6685",
+        "destination": "A2E393",
+        "mode":        "Bus",
+        "departureTime": "22:35",
+        "arrivalTime":   "00:15"
+      },
+      {
+        "source":      "A2E393",
+        "destination": "2A4593",
+        "mode":        "Bus",
+        "departureTime": "23:25",
+        "arrivalTime":   "00:15"
+      },
+      {
+        "source":      "2A4593",
+        "destination": "986F78",
+        "mode":        "Bus",
+        "departureTime": "23:40",
+        "arrivalTime":   "00:45"
+      }
+    ]
+  },
+  "10": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "8CFCAE",
+        "destination": "C84090",
+        "mode":        "Bus",
+        "departureTime": "20:40",
+        "arrivalTime":   "23:50"
+      }
+    ]
+  },
+  "32": {
+    "criteria": "Cost",
+    "value": 400,
+    "routes": [
+      {
+        "source":      "70FDC8",
+        "destination": "CAEF66",
+        "mode":        "Bus",
+        "departureTime": "20:55",
+        "arrivalTime":   "00:15"
+      },
+      {
+        "source":      "CAEF66",
+        "destination": "3405F8",
+        "mode":        "Bus",
+        "departureTime": "07:50",
+        "arrivalTime":   "08:10"
+      }
+    ]
+  },
+  "11": {
+    "criteria": "Cost",
+    "value": 430,
+    "routes": [
+      {
+        "source":      "12CDB8",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "08:05",
+        "arrivalTime":   "09:50"
+      },
+      {
+        "source":      "BE6685",
+        "destination": "CAEF66",
+        "mode":        "Bus",
+        "departureTime": "13:45",
+        "arrivalTime":   "17:05"
+      }
+    ]
+  },
+  "33": {
+    "criteria": "Time",
+    "value": -930,
+    "routes": [
+      {
+        "source":      "986F78",
+        "destination": "4D9A9D",
+        "mode":        "Bus",
+        "departureTime": "22:15",
+        "arrivalTime":   "00:35"
+      },
+      {
+        "source":      "4D9A9D",
+        "destination": "2A4593",
+        "mode":        "Bus",
+        "departureTime": "01:10",
+        "arrivalTime":   "04:10"
+      },
+      {
+        "source":      "2A4593",
+        "destination": "986F78",
+        "mode":        "Bus",
+        "departureTime": "23:40",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "986F78",
+        "destination": "E47BC1",
+        "mode":        "Bus",
+        "departureTime": "01:35",
+        "arrivalTime":   "02:00"
+      },
+      {
+        "source":      "E47BC1",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "22:00",
+        "arrivalTime":   "00:25"
+      },
+      {
+        "source":      "587721",
+        "destination": "70FDC8",
+        "mode":        "Bus",
+        "departureTime": "23:55",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "70FDC8",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "23:45",
+        "arrivalTime":   "00:50"
+      },
+      {
+        "source":      "BE6685",
+        "destination": "B2A921",
+        "mode":        "Bus",
+        "departureTime": "03:35",
+        "arrivalTime":   "06:45"
+      }
+    ]
+  },
+  "12": {
+    "criteria": "Cost",
+    "value": 500,
+    "routes": [
+      {
+        "source":      "CACE5F",
+        "destination": "B2A921",
+        "mode":        "Bus",
+        "departureTime": "13:00",
+        "arrivalTime":   "15:00"
+      },
+      {
+        "source":      "B2A921",
+        "destination": "3405F8",
+        "mode":        "Bus",
+        "departureTime": "19:30",
+        "arrivalTime":   "20:20"
+      },
+      {
+        "source":      "3405F8",
+        "destination": "A2E393",
+        "mode":        "Bus",
+        "departureTime": "20:30",
+        "arrivalTime":   "22:55"
+      }
+    ]
+  },
+  "34": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "C44F97",
+        "destination": "CAEF66",
+        "mode":        "Bus",
+        "departureTime": "00:25",
+        "arrivalTime":   "01:10"
+      }
+    ]
+  },
+  "13": {
+    "criteria": "Cost",
+    "value": 690,
+    "routes": [
+      {
+        "source":      "12CDB8",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "00:20",
+        "arrivalTime":   "01:55"
+      },
+      {
+        "source":      "587721",
+        "destination": "70FDC8",
+        "mode":        "Bus",
+        "departureTime": "23:55",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "70FDC8",
+        "destination": "E696ED",
+        "mode":        "Bus",
+        "departureTime": "08:55",
+        "arrivalTime":   "12:40"
+      }
+    ]
+  },
+  "35": {
+    "criteria": "Cost",
+    "value": 280,
+    "routes": [
+      {
+        "source":      "E696ED",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "16:55",
+        "arrivalTime":   "20:40"
+      },
+      {
+        "source":      "587721",
+        "destination": "3405F8",
+        "mode":        "Bus",
+        "departureTime": "23:35",
+        "arrivalTime":   "01:40"
+      }
+    ]
+  },
+  "14": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "12CDB8",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "00:20",
+        "arrivalTime":   "01:55"
+      }
+    ]
+  },
+  "36": {
+    "criteria": "Time",
+    "value": 0,
+    "routes": [
+    ]
+  },
+  "15": {
+    "criteria": "Time",
+    "value": -355,
+    "routes": [
+      {
+        "source":      "E696ED",
+        "destination": "7B1858",
+        "mode":        "Bus",
+        "departureTime": "09:50",
+        "arrivalTime":   "11:00"
+      },
+      {
+        "source":      "7B1858",
+        "destination": "E696ED",
+        "mode":        "Bus",
+        "departureTime": "19:55",
+        "arrivalTime":   "00:00"
+      },
+      {
+        "source":      "E696ED",
+        "destination": "E47BC1",
+        "mode":        "Bus",
+        "departureTime": "00:35",
+        "arrivalTime":   "03:55"
+      }
+    ]
+  },
+  "37": {
+    "criteria": "Cost",
+    "value": 480,
+    "routes": [
+      {
+        "source":      "A2E393",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "00:20",
+        "arrivalTime":   "04:10"
+      },
+      {
+        "source":      "587721",
+        "destination": "8CFCAE",
+        "mode":        "Bus",
+        "departureTime": "21:55",
+        "arrivalTime":   "00:05"
+      }
+    ]
+  },
+  "16": {
+    "criteria": "Time",
+    "value": -1260,
+    "routes": [
+      {
+        "source":      "3405F8",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "21:05",
+        "arrivalTime":   "00:35"
+      },
+      {
+        "source":      "587721",
+        "destination": "8CFCAE",
+        "mode":        "Bus",
+        "departureTime": "21:55",
+        "arrivalTime":   "00:05"
+      }
+    ]
+  },
+  "38": {
+    "criteria": "Cost",
+    "value": 720,
+    "routes": [
+      {
+        "source":      "D74FF4",
+        "destination": "12CDB8",
+        "mode":        "Bus",
+        "departureTime": "13:15",
+        "arrivalTime":   "14:45"
+      }
+    ]
+  },
+  "17": {
+    "criteria": "Time",
+    "value": -1305,
+    "routes": [
+      {
+        "source":      "E47BC1",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "22:00",
+        "arrivalTime":   "00:25"
+      },
+      {
+        "source":      "587721",
+        "destination": "70FDC8",
+        "mode":        "Bus",
+        "departureTime": "23:55",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "70FDC8",
+        "destination": "CAEF66",
+        "mode":        "Bus",
+        "departureTime": "20:55",
+        "arrivalTime":   "00:15"
+      }
+    ]
+  },
+  "39": {
+    "criteria": "Hops",
+    "value": 2,
+    "routes": [
+      {
+        "source":      "587721",
+        "destination": "8CFCAE",
+        "mode":        "Bus",
+        "departureTime": "21:55",
+        "arrivalTime":   "00:05"
+      },
+      {
+        "source":      "8CFCAE",
+        "destination": "C44F97",
+        "mode":        "Bus",
+        "departureTime": "23:05",
+        "arrivalTime":   "00:15"
+      }
+    ]
+  },
+  "18": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "CACE5F",
+        "destination": "7B1858",
+        "mode":        "Bus",
+        "departureTime": "20:30",
+        "arrivalTime":   "21:25"
+      }
+    ]
+  },
+  "19": {
+    "criteria": "Cost",
+    "value": 520,
+    "routes": [
+      {
+        "source":      "E47BC1",
+        "destination": "3405F8",
+        "mode":        "Bus",
+        "departureTime": "15:10",
+        "arrivalTime":   "16:15"
+      }
+    ]
+  },
+  "1": {
+    "criteria": "Time",
+    "value": -935,
+    "routes": [
+      {
+        "source":      "4D9A9D",
+        "destination": "C84090",
+        "mode":        "Bus",
+        "departureTime": "22:20",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "C84090",
+        "destination": "CACE5F",
+        "mode":        "Bus",
+        "departureTime": "10:30",
+        "arrivalTime":   "10:55"
+      },
+      {
+        "source":      "CACE5F",
+        "destination": "4D9A9D",
+        "mode":        "Bus",
+        "departureTime": "21:35",
+        "arrivalTime":   "01:05"
+      },
+      {
+        "source":      "4D9A9D",
+        "destination": "2A4593",
+        "mode":        "Bus",
+        "departureTime": "01:10",
+        "arrivalTime":   "04:10"
+      },
+      {
+        "source":      "2A4593",
+        "destination": "986F78",
+        "mode":        "Bus",
+        "departureTime": "23:40",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "986F78",
+        "destination": "E47BC1",
+        "mode":        "Bus",
+        "departureTime": "01:35",
+        "arrivalTime":   "02:00"
+      },
+      {
+        "source":      "E47BC1",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "22:00",
+        "arrivalTime":   "00:25"
+      },
+      {
+        "source":      "587721",
+        "destination": "70FDC8",
+        "mode":        "Bus",
+        "departureTime": "23:55",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "70FDC8",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "23:45",
+        "arrivalTime":   "00:50"
+      },
+      {
+        "source":      "BE6685",
+        "destination": "B2A921",
+        "mode":        "Bus",
+        "departureTime": "03:35",
+        "arrivalTime":   "06:45"
+      }
+    ]
+  },
+  "2": {
+    "criteria": "Time",
+    "value": -1320,
+    "routes": [
+      {
+        "source":      "E47BC1",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "22:00",
+        "arrivalTime":   "00:25"
+      },
+      {
+        "source":      "587721",
+        "destination": "70FDC8",
+        "mode":        "Bus",
+        "departureTime": "23:55",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "70FDC8",
+        "destination": "7B1858",
+        "mode":        "Bus",
+        "departureTime": "22:45",
+        "arrivalTime":   "02:30"
+      },
+      {
+        "source":      "7B1858",
+        "destination": "E696ED",
+        "mode":        "Bus",
+        "departureTime": "19:55",
+        "arrivalTime":   "00:00"
+      }
+    ]
+  },
+  "3": {
+    "criteria": "Time",
+    "value": -1310,
+    "routes": [
+      {
+        "source":      "BE6685",
+        "destination": "A2E393",
+        "mode":        "Bus",
+        "departureTime": "22:35",
+        "arrivalTime":   "00:15"
+      },
+      {
+        "source":      "A2E393",
+        "destination": "2A4593",
+        "mode":        "Bus",
+        "departureTime": "23:25",
+        "arrivalTime":   "00:15"
+      },
+      {
+        "source":      "2A4593",
+        "destination": "986F78",
+        "mode":        "Bus",
+        "departureTime": "23:40",
+        "arrivalTime":   "00:45"
+      },
+      {
+        "source":      "986F78",
+        "destination": "4D9A9D",
+        "mode":        "Bus",
+        "departureTime": "22:15",
+        "arrivalTime":   "00:35"
+      },
+      {
+        "source":      "4D9A9D",
+        "destination": "C84090",
+        "mode":        "Bus",
+        "departureTime": "22:20",
+        "arrivalTime":   "00:45"
+      }
+    ]
+  },
+  "4": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "7B1858",
+        "destination": "6ABE48",
+        "mode":        "Bus",
+        "departureTime": "12:15",
+        "arrivalTime":   "13:15"
+      }
+    ]
+  },
+  "5": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "587721",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "07:10",
+        "arrivalTime":   "10:00"
+      }
+    ]
+  },
+  "6": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "12CDB8",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "08:05",
+        "arrivalTime":   "09:50"
+      }
+    ]
+  },
+  "7": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "A2E393",
+        "destination": "3405F8",
+        "mode":        "Bus",
+        "departureTime": "21:40",
+        "arrivalTime":   "22:45"
+      }
+    ]
+  },
+  "8": {
+    "criteria": "Cost",
+    "value": 310,
+    "routes": [
+      {
+        "source":      "4D9A9D",
+        "destination": "12CDB8",
+        "mode":        "Bus",
+        "departureTime": "15:15",
+        "arrivalTime":   "18:40"
+      }
+    ]
+  },
+  "9": {
+    "criteria": "Cost",
+    "value": 440,
+    "routes": [
+      {
+        "source":      "6ABE48",
+        "destination": "587721",
+        "mode":        "Bus",
+        "departureTime": "06:50",
+        "arrivalTime":   "10:55"
+      }
+    ]
+  },
+  "40": {
+    "criteria": "Cost",
+    "value": 100,
+    "routes": [
+      {
+        "source":      "CACE5F",
+        "destination": "B2A921",
+        "mode":        "Bus",
+        "departureTime": "13:00",
+        "arrivalTime":   "15:00"
+      }
+    ]
+  },
+  "20": {
+    "criteria": "Hops",
+    "value": 1,
+    "routes": [
+      {
+        "source":      "986F78",
+        "destination": "2A4593",
+        "mode":        "Bus",
+        "departureTime": "21:15",
+        "arrivalTime":   "23:45"
+      }
+    ]
+  },
+  "21": {
+    "criteria": "Cost",
+    "value": 210,
+    "routes": [
+      {
+        "source":      "CAEF66",
+        "destination": "7B1858",
+        "mode":        "Bus",
+        "departureTime": "04:55",
+        "arrivalTime":   "06:55"
+      },
+      {
+        "source":      "7B1858",
+        "destination": "BE6685",
+        "mode":        "Bus",
+        "departureTime": "19:05",
+        "arrivalTime":   "22:45"
+      }
+    ]
+  }
+}
