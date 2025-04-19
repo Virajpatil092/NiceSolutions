@@ -148,7 +148,14 @@ public class TravelOptimizerImpl implements ITravelOptimizer {
                 if (e.depMin < cur.currArrMin) continue;
 
                 int wait = e.depMin - cur.currArrMin;
+                if(wait < 0){
+                    wait = 0;
+                }
                 int travel = e.arrMin - e.depMin;
+
+                if(travel < 0){
+                    continue;
+                }
 
                 List<Edge> newPath = new ArrayList<>(cur.path);
                 newPath.add(e);
